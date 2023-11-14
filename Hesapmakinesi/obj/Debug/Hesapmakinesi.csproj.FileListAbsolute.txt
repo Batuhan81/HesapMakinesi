@@ -1,0 +1,10 @@
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\bin\Debug\Hesapmakinesi.exe.config
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\bin\Debug\Hesapmakinesi.exe
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\bin\Debug\Hesapmakinesi.pdb
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\obj\Debug\Hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\obj\Debug\Hesapmakinesi.Form1.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\obj\Debug\Hesapmakinesi.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\obj\Debug\Hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\obj\Debug\Hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\obj\Debug\Hesapmakinesi.exe
+C:\Users\Batuhan\Desktop\Dersler\Yaptıklarım\Hesapmakinesi\obj\Debug\Hesapmakinesi.pdb
