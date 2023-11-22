@@ -108,7 +108,7 @@ namespace Hesapmakinesi
             }
             else
             {
-                MessageBox.Show("Hesaplanacak veri mi var?", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Hesaplanacak veri bulunamadı", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
         }
@@ -126,7 +126,7 @@ namespace Hesapmakinesi
             dolumu();
             if (durum == true)
             {
-                MessageBox.Show("Neyi çıkartacan amına koyduğum");
+                MessageBox.Show("Çıkartabilecek veri Girin");
             }
             else
             {
@@ -144,7 +144,7 @@ namespace Hesapmakinesi
             dolumu();
             if (durum == true)
             {
-                MessageBox.Show("Neyi çarpacan amına koyduğum");
+                MessageBox.Show("Çarpılacak veri Girin");
             }
             else
             {
@@ -162,7 +162,7 @@ namespace Hesapmakinesi
             dolumu();
             if (durum == true)
             {
-                MessageBox.Show("Neyi bölecen amına koyduğum");
+                MessageBox.Show("Bölünebilecek veri girin");
             }
             else
             {
@@ -180,7 +180,7 @@ namespace Hesapmakinesi
         { 
             if (Sonuç.Text == " ")
             {
-                MessageBox.Show("Kardeşim körmüsün bişey yok zaten neyi silecen", "Uyarı !!!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Silinecek Veri Bulunamadı", "Uyarı !!!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             Sonuç.Text = " ";
             sayi = 0;
@@ -231,7 +231,7 @@ namespace Hesapmakinesi
             }
             else
             {
-                MessageBox.Show("Hesaplanacak veri mi var?", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Hesaplanacak veri mi bulunamadı", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
